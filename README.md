@@ -1,1 +1,1 @@
-I am Sravani. I am Vijayawada.I got my B.Tech Degree in the year 2024. Now I am doing masters in SRM university.
+"hello people"
