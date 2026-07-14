@@ -1,1 +1,1 @@
-"hello people"
+Created a readme file.
